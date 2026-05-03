@@ -1,0 +1,2 @@
+model,roc_auc,average_precision
+LinearSVC,0.9989937689092863,0.9990047918826458

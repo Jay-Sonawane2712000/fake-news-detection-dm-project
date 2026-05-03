@@ -1,0 +1,2 @@
+model,feature_source,ngram_range,tuned,split,accuracy,precision,recall,f1,notes
+LinearSVC,title_plus_text,"(1, 1)",Yes,TEST,0.9916453537936913,0.9890625,0.9955960994023277,0.9923185452265245,{'C': 1}

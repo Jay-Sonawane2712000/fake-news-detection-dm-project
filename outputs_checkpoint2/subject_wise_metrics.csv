@@ -1,0 +1,8 @@
+subject,count,num_classes_in_group,accuracy,precision,recall,f1
+left-news,113,1,1.0,,,
+worldnews,1529,1,0.999345977763244,,,
+News,1302,1,0.9984639016897081,,,
+politicsNews,1650,1,0.9921212121212121,,,
+US_News,135,1,0.9851851851851852,,,
+politics,1054,1,0.9734345351043643,,,
+Government News,82,1,0.9634146341463414,,,
